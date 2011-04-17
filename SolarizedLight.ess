@@ -1,0 +1,225 @@
+/* Solarized Light */
+default_style
+{
+		fore:#657b83;
+		back:#fdf6e3;
+		face:%(primary)s;
+		size:%(size)d;
+
+}
+userkw_style
+{
+        fore:#cb4b16;
+}
+
+number2_style
+{
+		fore:#268bd2;
+}
+
+stringeol_style
+{
+		fore:#dc322f;
+}
+
+caret_line
+{
+		back:#eee8d5;
+}
+
+comment_style
+{
+		fore:#93A1A1;
+}
+
+foldmargin_style
+{
+		fore:#839496;
+		back:#eee8d5;
+}
+
+keyword_style
+{
+		fore:#859900;
+}
+
+keyword3_style
+{
+		fore:#b58900;
+}
+
+guide_style {
+		fore:#93a1a1;
+}
+
+keyword4_style
+{
+		fore:#b58900;
+}
+
+ideol_style
+{
+		fore:#268bd2;
+}
+
+array_style
+{
+		fore:#6c71c4;
+}
+
+global_style
+{
+		fore:#268bd2;
+}
+
+line_num
+{
+		fore:#839496;
+		back:#eee8d5;
+}
+
+pre2_style
+{
+		fore:#d33682;
+}
+
+string_style
+{
+		fore:#2aa198;
+}
+
+class_style
+{
+		fore:#268bd2;
+}
+
+ctrl_char
+{
+		fore:#268bd2;
+}
+
+marker_style
+{
+		fore:#268bd2;
+}
+
+keyword2_style
+{
+		fore:#b58900;
+}
+
+class2_style
+{
+		fore:#268bd2;
+}
+
+unknown_style
+{
+		fore:#dc322f;
+}
+
+calltip
+{
+		fore:#268bd2;
+}
+
+scalar_style
+{
+		fore:#6c71c4;
+}
+
+operator_style
+{
+		fore:#657b83;
+}
+
+here_style
+{
+		fore:#2aa198;
+}
+
+number_style
+{
+		fore:#2aa198;
+}
+
+regex_style
+{
+		fore:#d33682;
+}
+
+folder_style
+{
+		fore:#268bd2;
+}
+
+pre_style
+{
+		fore:#cb4b16;
+}
+
+whitespace_style
+{
+		fore:#93a1a1;
+}
+
+decor_style
+{
+		fore:#268bd2;
+}
+
+scalar2_style
+{
+		fore:#6c71c4;
+}
+
+funct_style
+{
+		fore:#268bd2;
+}
+
+brace_good
+{
+		fore:#657b83;
+		back:#eee8d5;
+}
+
+error_style
+{
+		fore:#dc322f;
+}
+
+directive_style
+{
+		fore:#6c71c4;
+}
+
+btick_style {
+		fore:#000066;
+}
+
+char_style
+{
+		fore:#2aa198;
+}
+
+margin_style
+{
+		fore:#268bd2;
+}
+
+brace_bad
+{
+		fore:#dc322f;
+}
+
+dockey_style
+{
+		fore:#dc322f;
+}
+
+select_style
+{
+		back:#657b83;
+		fore:#fdf6e3;
+}
