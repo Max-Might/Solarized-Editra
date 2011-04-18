@@ -1,0 +1,31 @@
+Solarized color themes for Editra.
+
+Instalation:
+
+Editra Style Sheets to customize the syntax highlighting theme. Download the *.ess file of choice and copy it to the following path on your machine to install it.
+
+Macintosh OSX
+~/Library/Application Support/Editra/styles/
+
+Linux/Unix
+~/.Editra/styles/
+
+Windows 2000/XP
+C:\Documents and Settings\%USERNAME%\Application Data\Editra\style\
+
+Windows Vista/7
+C:\Users\%USERNAME%\AppData\Roaming\Editra\styles
+
+Links:
+
+Project on github:
+https://github.com/Max-Might/Solarized-Editra
+
+Solarized Homepage:
+http://ethanschoonover.com/solarized
+
+Solarized on Github:
+https://github.com/altercation/solarized
+
+Editra Homepage:
+http://editra.org/
