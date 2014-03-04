@@ -8,7 +8,8 @@ Macintosh OSX
 ~/Library/Application Support/Editra/styles/
 
 Linux/Unix
-~/.Editra/styles/
+~/.Editra/styles/ or
+~/.config/Editra/styles
 
 Windows 2000/XP
 C:\Documents and Settings\%USERNAME%\Application Data\Editra\style\
